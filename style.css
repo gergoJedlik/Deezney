@@ -1,3 +1,44 @@
-html{
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(Disney-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: fixed;
+}
+.gradient{
+    background: linear-gradient(#00000000, white);
+    margin-top: 100px;
+    height: 1000px;
+    right: 0px;
+    left: 0px;
+    z-index: 1;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.tartalom{
     background-color: white;
+    height: 1000px;
+}
+.background{
+    
+    position: fixed;
+    z-index: -1;
+    height: 1000px;
+    width: 1000px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.navsav{
+    background-color: #113ccf;
+}
+.feherbetu{
+    color: white;
+}
+.navlink{
+    padding: 10px;
+}
+.foitem{
+    height: 45px;
 }
