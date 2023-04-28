@@ -1,10 +1,8 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-image: url(Disney-1.jpg);
-    background-repeat: no-repeat;
+    background-image: url(bg.jpg);
     background-size: cover;
-    background: fixed;
 }
 .gradient{
     background: linear-gradient(#00000000, white);
@@ -32,6 +30,10 @@ body{
 }
 .navsav{
     background-color: #113ccf;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
 }
 .feherbetu{
     color: white;
@@ -41,4 +43,9 @@ body{
 }
 .foitem{
     height: 45px;
+}
+
+.gradient{
+    background-image: linear-gradient(rgba(255, 255, 255, 0), white);
+    height: 86.6vh;
 }
