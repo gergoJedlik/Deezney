@@ -38,6 +38,9 @@ body{
 .feherbetu{
     color: white;
 }
+.nav-item :hover{
+    color: white;
+}
 .navlink{
     padding: 10px;
 }
