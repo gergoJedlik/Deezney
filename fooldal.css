@@ -3,3 +3,7 @@
     background-image: url("bg.jpg");
     height: 18rem;
 }
+
+.tartalom{
+    border-top: 5px ;
+}
