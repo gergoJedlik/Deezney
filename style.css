@@ -79,14 +79,12 @@ body{
     transform: scaleX(1);
     transform-origin: bottom left;
 }
-
-.slideshow{
-    position: static;
-    top: 60px;
-    z-index: -1;
-}
 .slitar{
     margin-top: 70px;
     background-color: white;
     border-radius: 25px;
+}
+.carousel img{ 
+    float: right;
+    width: 600px;
 }
