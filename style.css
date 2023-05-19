@@ -88,3 +88,10 @@ body{
     float: right;
     width: 600px;
 }
+p{
+    font-weight: 600;
+    font-size: 35px;
+}
+h1{
+    font-size: 60px;
+}
