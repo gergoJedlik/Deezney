@@ -1,6 +1,8 @@
 .cim{
     background-position-y: 25%;
     background-image: url("bg.jpg");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
     height: 30vh;
 }
 
@@ -12,4 +14,5 @@
     height:67vh;
     width: 100vw;
 }
+
  
